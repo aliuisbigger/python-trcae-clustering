@@ -1,0 +1,47 @@
+借款日志使用som聚类，使用alpha算法挖掘petri网，基于token的方法。
+				fitness	precision
+原模型：				0.98	0.84
+使用事件频率编码：
+子模型1的fitness和precision为          	1 	0.888
+
+子模型2的fitness和precision为      	0.94	1
+
+子模型3的fitness和precision为      	1	1
+
+子模型4的fitness和precision为      	1	1
+
+使用onehot编码：
+子模型1的fitness和precision为          	0.94 	1
+
+子模型2的fitness和precision为      	1	1
+
+子模型3的fitness和precision为      	1	1
+
+子模型4的fitness和precision为      	0.98	0.88
+
+
+	
+
+
+
+
+
+借书日志使用som聚类，使用alpha算法挖掘petri网，基于token的方法。
+				fitness	precision
+原模型：				0.92	0.96
+
+使用事件频率编码：
+子模型1的fitness和precision为          	1 	0.888
+
+子模型2的fitness和precision为      	0.96	0.91
+
+子模型3的fitness和precision为      	0.916	0.95
+
+
+使用onehot编码：
+子模型1的fitness和precision为          	0.90	1
+
+子模型2的fitness和precision为      	0.91	0.81
+
+子模型3的fitness和precision为      	0.93	0.87
+
